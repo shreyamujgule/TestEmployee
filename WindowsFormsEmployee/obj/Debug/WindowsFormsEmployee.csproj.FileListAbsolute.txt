@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\trial\trial\WindowsFormsEmployee\bin\Debug\WindowsFormsEmployee.exe.config
+C:\Users\Lenovo\Desktop\trial\trial\WindowsFormsEmployee\bin\Debug\WindowsFormsEmployee.exe
+C:\Users\Lenovo\Desktop\trial\trial\WindowsFormsEmployee\bin\Debug\WindowsFormsEmployee.pdb
+C:\Users\Lenovo\Desktop\trial\trial\WindowsFormsEmployee\obj\Debug\WindowsFormsEmployee.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\trial\trial\WindowsFormsEmployee\obj\Debug\WindowsFormsEmployee.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\trial\trial\WindowsFormsEmployee\obj\Debug\WindowsFormsEmployee.Form1.resources
+C:\Users\Lenovo\Desktop\trial\trial\WindowsFormsEmployee\obj\Debug\WindowsFormsEmployee.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\trial\trial\WindowsFormsEmployee\obj\Debug\WindowsFormsEmployee.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\trial\trial\WindowsFormsEmployee\obj\Debug\WindowsFormsEmployee.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\trial\trial\WindowsFormsEmployee\obj\Debug\WindowsFormsEmployee.exe
+C:\Users\Lenovo\Desktop\trial\trial\WindowsFormsEmployee\obj\Debug\WindowsFormsEmployee.pdb
